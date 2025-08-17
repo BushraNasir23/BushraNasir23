@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Bushra Nasir  
 
-<!--
-**BushraNasir23/BushraNasir23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | Python Enthusiast | Machine Learning Explorer**  
 
-Here are some ideas to get you started:
+I’m a passionate developer with hands-on experience in building scalable web applications, REST APIs, and intelligent systems. I enjoy solving real-world problems through code and continuously learning new technologies to improve my craft.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack & Skills
+- **Languages:** Python, JavaScript, HTML, CSS, SQL  
+- **Backend Frameworks:** Django, Flask, FastAPI  
+- **Frontend:** Next.js, React.js, TailwindCSS  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy, TensorFlow (basics)  
+- **Tools & Others:** Git, GitHub, REST APIs, Docker, Linux  
+
+---
+
+
+## 🌍 Connect With Me
+- 📧 Email: bushranasir530@gmail.com
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+
